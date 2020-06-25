@@ -8,7 +8,7 @@ Per the website: “The Military Bases dataset as of May 5, 2017, and is part of
 We connected to the military base API, used Python to loop through the data of each of the military base, and then exported the information as an excel file to gather the “geo-location”.
 
 Transform:
-UFO: From the CSV from the UFO dataset, we created two data frames. The first data set was grouped by City, then we looped through the data to count the recurrences of each city. This gave us a smaller data set but created a frequency column. The seconds data frame we created was sorted by city and included the latitude and longitude of each documented sighting. From there, we merged the 2 data frames and dropped the duplicates.
+UFO: From the CSV from the UFO dataset, we created two data frames. The first data set was grouped by City, then we looped through the data to count the recurrences of each city. This gave us a smaller data set but created a frequency column. The second dataset we created was sorted by city and included the latitude and longitude of each documented sighting. From there, we merged the 2 data frames and dropped the duplicates.
 MILITARY BASES: From the API generated excel file, we extracted the “geo-points” and had to split the column for “latitude, longitude” into two separate columns. 
 
 Load:
@@ -22,4 +22,5 @@ Further Research:
 It would have been interesting to see if population was correlated to the amount of UFO sightings reported.
 We could have focused on each type of military base at a time i.e. (Army, Air Force, Navy, Marine Corp). Or narrowed the bases down by only plotting active bases. 
 
+<img src="./screenshot1.jpg">
 
