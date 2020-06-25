@@ -22,4 +22,5 @@ Further Research:
 It would have been interesting to see if population was correlated to the amount of UFO sightings reported.
 We could have focused on each type of military base at a time i.e. (Army, Air Force, Navy, Marine Corp). Or narrowed the bases down by only plotting active bases. 
 
-https://github.com/krissysantucci/UFOs_ETL-Project/blob/master/Screen%20%20shot1.png
+
+https://github.com/krissysantucci/UFOs_ETL-Project/blob/master/Screen%20%20shot1.png?raw=true
