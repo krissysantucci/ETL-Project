@@ -25,8 +25,6 @@ We could have focused on each type of military base at a time i.e. (Army, Air Fo
 ![alt text][logo]
 [logo]: https://github.com/krissysantucci/UFOs_ETL-Project/blob/master/Screen%20%20shot1.png "Screen Shot"
 
-![alt text][logo1]
-[logo1]: https://github.com/krissysantucci/UFOs_ETL-Project/blob/master/Screen%20%20shot2.png "Screen Shot"
 
 
 
